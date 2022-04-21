@@ -6,7 +6,7 @@ Flutter Programmer | IOS and Android Developer
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [ikiselev288@gmail.com](mailto:ikiselev288@gmail.com)
-* 🚀  I'm currently working in [Spichka](http://Spichka.dev)
+* 🚀  I'm currently working on [Spichka](http://Spichka.dev)
 * 🧠  I'm learning Dart | Flutter | C# | C++| Java | C | Python
 
 ### Skills
@@ -20,7 +20,7 @@ Flutter Programmer | IOS and Android Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+### Socials
 
 <p align="left"> <a href="https://www.github.com/kkkivannn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ### Badges
