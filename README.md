@@ -6,7 +6,7 @@ Flutter Programmer | IOS and Android Developer
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [ikiselev288@gmail.com](mailto:ikiselev288@gmail.com)
-* 🚀  I'm currently working on [Spichka](http://Spichka.dev)
+* 🚀  I'm currently working on Myself
 * 🧠  I'm learning Dart | Flutter | C# | C++| Java | C | Python
 
 ### Skills
